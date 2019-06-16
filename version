@@ -1,0 +1,10 @@
+{
+  "update": "2019616",
+  "desc": "first version",
+  "source": [
+    "github"
+  ],
+  "checkUpdate": 1,
+  "checkUsable":1,
+  "checkDeep":10
+}
