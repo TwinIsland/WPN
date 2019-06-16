@@ -3,7 +3,7 @@ update the Shadowsocks to get the free VPN
 
 ## Usage
 1. run `wpn.py`
-2. run `WPN.lnk`
+2. run `WPN.bat`
 3. done
 
 ## Config
